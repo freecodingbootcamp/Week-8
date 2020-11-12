@@ -15,7 +15,7 @@ https://www.theodinproject.com/courses/nodejs/lessons/mini-message-board
 
 ### Create Github Repo First!
 
-Make sure you create a Github repo and push your code to it before you continue with deploying to Heroku. Remember the steps to creating a Github repo? You go on Github.com, login, select create new repo and then follow the steps. Make sure NOT to select any of the checkmarks at the bottom of creating a new repo page. This way you will the instructions on how to push to Github on the next page.
+Make sure you create a Github repo and push your code to it before you continue with deploying to Heroku. Remember the steps to creating a Github repo? You go on Github.com, login, select create new repo and then follow the steps. Make sure NOT to select any of the checkmarks at the bottom of creating a new repo page. This way you will see the instructions on how to push to Github on the next page.
 
 
 ### Install Heroku Command Line Tool
