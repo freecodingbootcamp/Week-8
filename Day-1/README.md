@@ -63,21 +63,24 @@ You might run into syntax errors. If that happens revisit the package.json file 
 
 Here is how my package.json looks like:
 
-    {
-      "name": "express-generator-app-ejs-default",
-      "version": "0.0.0",
-      "private": true,
-      "scripts": {
-        "start": "node app.js"
-      },
-      "dependencies": {
-        "cookie-parser": "~1.4.4",
-        "debug": "~2.6.9",
-        "ejs": "~2.6.1",
-        "express": "~4.16.1",
-        "http-errors": "~1.6.3",
-        "morgan": "~1.9.1"
-      }
+       {
+	      "name": "express-generator-app-ejs-default",
+	      "version": "0.0.0",
+	      "private": true,
+	      "scripts": {
+	        "start": "node app.js"
+	      },
+	      "dependencies": {
+	        "cookie-parser": "~1.4.4",
+	        "debug": "~2.6.9",
+	        "ejs": "~2.6.1",
+	        "express": "~4.16.1",
+	        "http-errors": "~1.6.3",
+	        "morgan": "~1.9.1"
+	      },
+	      "engines": {
+	        "node": "14.15.0"
+	      }
     }
 
 ### Test it Locally
