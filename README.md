@@ -10,4 +10,6 @@
 
 ### [Day 4](https://github.com/freecodingbootcamp/Week-8/tree/master/Day-4):
 
+- Endpoints, PUT endpoint
+
 ### [Day 5](https://github.com/freecodingbootcamp/Week-8/tree/master/Day-5):
